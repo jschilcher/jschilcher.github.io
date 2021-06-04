@@ -4,17 +4,17 @@
     width: 100%;
 }
 
+.nav-container{
+    margin: auto;
+    margin-top: 167px;
+    margin-left: 10px;
+    width: 20%;
+}  
+
 .carousel-container{
     margin: auto;
     width: 60%;
 }
-
-/* .container {
-    width: 150px;
-    height: 150px;
-    position: relative;
-    margin: 30px;
-  } */
   
   .box {
     width: 100%;
