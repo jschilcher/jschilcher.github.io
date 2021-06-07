@@ -9,7 +9,18 @@
     margin-top: 167px;
     margin-left: 10px;
     width: 20%;
+    color:rgb(56, 56, 56);
+    font-family: cursive;
+
 }  
+
+.heading-div{
+    margin: auto;
+    margin-top: -259px;
+    margin-left: 214px;
+    width: 269px;
+    font-family: cursive;
+}
 
 .carousel-container{
     margin: auto;
