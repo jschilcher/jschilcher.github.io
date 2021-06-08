@@ -4,9 +4,35 @@
     width: 100%;
 }
 
+.button {
+    background-color: rgba(248, 246, 247, 0.4); 
+    border: none;
+    /* color: white; */
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 14px 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .button1 {
+    /* background-color: white;  */
+    color: rgb(53, 53, 53); 
+    border: 1px solid rgb(53, 53, 53);
+    border-radius: 100%;
+  }
+  
+  .button1:hover {
+    background-color: rgba(255, 20, 145, 0.4);
+    /* color: rgba(255, 20, 145, 0.6); */
+  }
+
 .nav-container{
     margin: auto;
-    margin-top: 167px;
+    margin-top: 45px;
     margin-left: 10px;
     width: 20%;
     color:rgb(56, 56, 56);
@@ -20,15 +46,16 @@
 
 .heading-div{
     margin: auto;
-    margin-top: -259px;
+    margin-top: -281%;
     margin-left: 214px;
-    width: 269px;
+    width: 600px;
     font-family: cursive;
 }
 
 .carousel-container{
     margin: auto;
     width: 60%;
+    height: 60%;
 }
   
   .box {
@@ -45,5 +72,14 @@
     z-index: 9;
     margin: 0px;
     width: 100px;
+    height: 100%;
     background: #eeac05;
+  }
+
+  .image1-container {
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 125px;
+    width: 50%;
+    height: 50%;
   }
