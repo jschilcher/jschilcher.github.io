@@ -118,3 +118,20 @@
   height: 50%;
   font-family: cursive;
 }
+
+.project3 {
+  margin: auto;
+  margin-top: 15px;
+  margin-left: 120px;
+  width: 25%;
+  height: 50%;
+  font-family: cursive;
+}
+
+.screenshot1 {
+  margin: auto;
+  margin-top: -450px;
+  margin-left: 525px;
+  width: 50%;
+  height: 50%;
+}
